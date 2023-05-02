@@ -1,2 +1,3 @@
 # WhiteHatHacker-Game
 This is a game written only in python. It is about a guy who stumbles upon an old computer system. It turns out inside of it there is a code for an advanced AI system called W.O.R.D.S. . WORDS greets our user and... play the game and you will se how it goes.  
+The problem is that I am very ambitious and I want each time WORDS is evolving the graphics and the gameplay to evolve also. But as it turns out I am out of ideas how to do that. You will see that the gameplay mechanics involve a real time timer and each time the user makes a mistake or finishes a level WORDS is leaning and taking away minutes from the timer. 
